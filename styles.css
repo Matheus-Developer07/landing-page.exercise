@@ -1,0 +1,100 @@
+.logo{
+    height: 60px;
+    width: 60px;
+}
+.cabeçalho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffeff0;
+    box-shadow: 0px 5px 5px;
+    gap: 8px;
+    border-radius: 5px;
+    margin-bottom: auto;
+}
+body{
+    background-color: lightpink;
+    background-image: url(images/background.lala.png);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.quemsomos{
+    display: flex;
+    align-items: center;
+    background-color: rgb(224, 107, 165);
+    margin: 15px;
+    justify-content: left;
+    max-width: 900px;
+    margin-right: auto;
+}
+.imgquemsomos{
+    height: 250px;
+    width: 250px;
+    margin: 15px;
+}
+.txtquemsomos{
+    max-width: 600px;
+    margin-right: auto;
+}
+h1{
+    font-family: Impact, sans-serif;
+    font-weight: 700;
+}
+.produtoprincipal{
+    display: flex;
+    justify-content: right;
+    background-color: rgb(235, 127, 181);
+    margin: 15px;
+    max-width: 900px;
+    margin-left: auto;
+}
+.imgproduto{
+    height: 250px;
+    width: 250px;
+    margin: 15px;
+}
+.txtproduto{
+    max-width: 600px;
+    margin-left: auto;
+}
+.divfinal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffeff0;
+    box-shadow: 0px -5px 10px;
+    margin-top: auto;
+    border-radius: 5px;
+}
+.titulodebaixo h2{
+    margin-bottom: 1px;
+}
+.titulodebaixo h3{
+    margin-top: 1px;
+}
+.cardapio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(239, 164, 201);
+    margin: 15px;
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    box-shadow: 0px -5px 10px;
+}
+.cardapio div{
+    max-width: 600px;
+    margin: auto;
+}
+.insta{
+    background-color: #e1306c;
+    display: inline-block;
+    padding: 10px 18px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}

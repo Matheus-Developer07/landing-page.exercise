@@ -1,1 +1,1 @@
-# landing-page.exercise
+This is a simples landing page exercise. I'll use my skills in HTML and CSS for crate a beautiful front-end project
