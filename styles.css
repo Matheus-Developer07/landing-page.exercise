@@ -27,6 +27,7 @@ body{
     justify-content: left;
     max-width: 900px;
     margin-right: auto;
+    flex: 1;
 }
 .imgquemsomos{
     height: 250px;
@@ -48,6 +49,7 @@ h1{
     margin: 15px;
     max-width: 900px;
     margin-left: auto;
+    flex: 1;
 }
 .imgproduto{
     height: 250px;
@@ -85,6 +87,7 @@ h1{
     margin-right: auto;
     border-radius: 8px;
     box-shadow: 0px -5px 10px;
+    flex: 1;
 }
 .cardapio div{
     max-width: 600px;
