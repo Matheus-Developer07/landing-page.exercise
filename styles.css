@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 .logo{
     height: 60px;
     width: 60px;
@@ -83,8 +86,8 @@ h1{
     border-radius: 8px;
     box-shadow: 0px 0px 15px;
     max-width: 90%;
-    padding-left: 24%;
-    padding-right: 24%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 .imgproduto{
     max-width: 50%;
